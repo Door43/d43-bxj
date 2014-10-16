@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bxj:home|Door43 (bxj)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bxj|d43-bxj repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bxj/archive/master.zip|d43-bxj.zip]]
+
+**Recent Changes**
+{{changes>ns = bxj}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bxj|Ethnologue data]]
+
